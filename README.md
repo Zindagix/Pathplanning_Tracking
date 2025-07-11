@@ -30,6 +30,7 @@
 ## 安装与运行
 
 ### 环境要求
+
 - Python 3.10 或更高版本
 
 ### Requirements
@@ -175,3 +176,11 @@ _图：运行算法界面_
 _图：性能分析界面_
 
 <img src="png/main4.png">
+
+## License
+
+- This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+## Comments
+
+- Any comments for the codes are always welcome.
